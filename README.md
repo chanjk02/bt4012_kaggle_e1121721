@@ -20,7 +20,6 @@ The data input must include train.csv, test.csv, sample_submission.csv, and txs_
 
 ## Files
 
-- BT4012_Report_Draft.docx: editable report draft.
 - E1121721.ipynb: reproducible notebook named with the NUS student number.
 
 - train_v*.py, graph_postprocess.py: reproducible training and graph-ranking source.
