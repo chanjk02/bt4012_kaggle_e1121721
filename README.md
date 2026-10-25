@@ -5,6 +5,7 @@ This repository contains the reproducible notebook for the final V24 model. The 
 ## Files
 
 - `E1121721.ipynb`: the required student-number notebook. It includes the model source, validation notes, and code to generate the V24 submission and V23 fallback.
+- `submission_v24.csv` and `submission_v23_fallback.csv`: the selected submission files.
 - `requirements.txt`: Python dependencies.
 - `.gitignore`: ignores local data and generated outputs.
 
